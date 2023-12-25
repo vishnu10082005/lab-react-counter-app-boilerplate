@@ -1,0 +1,13 @@
+body{
+  text-align: center;
+  margin: auto;
+}
+
+.counter{
+  text-align: center;
+  margin: auto;
+  margin-left: 600px;
+}
+.counter button{
+  margin-left: 20px;
+}
